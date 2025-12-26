@@ -2,7 +2,7 @@
 ---
 ## Use Case Diagram
 ---
-![use-case](./images/use-case_diagram.png])
+![use-case](./images/use_case_diagram.png)
 ## Class Diagram
 ---
 ![class](./images/class_diagram.png)
