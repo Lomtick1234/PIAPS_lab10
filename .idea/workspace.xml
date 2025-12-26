@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a4799ff-7db7-4fb0-9e8c-153796b6103d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/activity_diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/class_diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/class_from_JAVA_diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sequence_diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/test_code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/test_run.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/use-case__diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Administrator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contribution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Faculty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Institute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecturer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Researcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -83,6 +63,27 @@
       <option name="presentableId" value="Default" />
       <updated>1766522509455</updated>
     </task>
+    <task id="LOCAL-00001" summary="lab10">
+      <option name="closed" value="true" />
+      <created>1766765036936</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766765036936</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lab10">
+      <option name="closed" value="true" />
+      <created>1766765268122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766765268122</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab10" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab10" />
   </component>
 </project>

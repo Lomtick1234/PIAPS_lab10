@@ -2,20 +2,20 @@
 ---
 ## Use Case Diagram
 ---
-![[./images/use-case__diagram.png]]
+![use-case](./images/use-case_diagram.png])
 ## Class Diagram
 ---
-![[./images/class_diagram.png]]
+![class](./images/class_diagram.png)
 ## Class Diagram (reversed from Java)
 ---
-![[./images/class_from_JAVA_diagram.png]]
+![class_reversed](./images/class_from_JAVA_diagram.png)
 ## Sequence Diagram
 ---
-![[./images/sequence_diagram.png]]
+![sequence](./images/sequence_diagram.png)
 ## Activity Diagram
 ---
-![[./images/activity_diagram.png]]
+![activity](./images/activity_diagram.png)
 ## Test run
 ---
-![[./images/test_code.png]]
-![[./images/test_run.png]]
+![code](./images/test_code.png)
+![test](./images/test_run.png)
